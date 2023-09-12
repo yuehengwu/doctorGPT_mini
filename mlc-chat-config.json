@@ -1,0 +1,14 @@
+{
+    "model_lib": "RedPajama-INCITE-Chat-3B-v1-q4f16_0",
+    "local_id": "doctorGPT_mini",
+    "conv_template": "redpajama_chat",
+    "temperature": 0.7,
+    "repetition_penalty": 1.01,
+    "top_p": 0.95,
+    "mean_gen_len": 128,
+    "shift_fill_factor": 0.3,
+    "estimated_vram_req": 2254857830,
+    "tokenizer_files": [
+        "tokenizer.json"
+    ]
+}
