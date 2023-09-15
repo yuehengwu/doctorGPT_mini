@@ -1,0 +1,4 @@
+在package.json的mlc-local下增加脚本：
+
+
+"open":"/Applications/Google\\ Chrome\\ Canary.app/Contents/MacOS/Google\\ Chrome\\ Canary --enable-dawn-features=allow_unsafe_apis"
